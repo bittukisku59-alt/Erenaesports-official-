@@ -1,0 +1,6 @@
+{
+  "name": "Erena Esports",
+  "description": "Play Free Fire tournaments, Free Erena Ludo, and Predict & Earn on the official Erena Esports Android app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
